@@ -1,0 +1,16 @@
+.venv/
+.venv*/
+venv/
+__pycache__/
+*.py[cod]
+*.sqlite3
+.env
+.dart_tool/
+.flutter-plugins*
+build/
+android/.gradle/
+ios/Pods/
+media/
+backend/staticfiles/
+.DS_Store
+
